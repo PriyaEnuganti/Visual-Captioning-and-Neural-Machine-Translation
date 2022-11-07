@@ -1,6 +1,5 @@
 # Visual-Captioning-and-Neural-Machine-Translation
-This is a readme file that will be filled as we progress through the project
-Dataset
+Dataset 1
 Flickr
 
 The dataset has 8000 images with varities in scenes and situations and can be downloaded from here
